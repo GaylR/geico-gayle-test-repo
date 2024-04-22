@@ -1,0 +1,15 @@
+C:\Revature - GayleR\geico-gayle-test-repo\Week1\GuessNumberGame\bin\Debug\net8.0\GuessNumberGame.exe
+C:\Revature - GayleR\geico-gayle-test-repo\Week1\GuessNumberGame\bin\Debug\net8.0\GuessNumberGame.deps.json
+C:\Revature - GayleR\geico-gayle-test-repo\Week1\GuessNumberGame\bin\Debug\net8.0\GuessNumberGame.runtimeconfig.json
+C:\Revature - GayleR\geico-gayle-test-repo\Week1\GuessNumberGame\bin\Debug\net8.0\GuessNumberGame.dll
+C:\Revature - GayleR\geico-gayle-test-repo\Week1\GuessNumberGame\bin\Debug\net8.0\GuessNumberGame.pdb
+C:\Revature - GayleR\geico-gayle-test-repo\Week1\GuessNumberGame\obj\Debug\net8.0\GuessNumberGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature - GayleR\geico-gayle-test-repo\Week1\GuessNumberGame\obj\Debug\net8.0\GuessNumberGame.AssemblyInfoInputs.cache
+C:\Revature - GayleR\geico-gayle-test-repo\Week1\GuessNumberGame\obj\Debug\net8.0\GuessNumberGame.AssemblyInfo.cs
+C:\Revature - GayleR\geico-gayle-test-repo\Week1\GuessNumberGame\obj\Debug\net8.0\GuessNumberGame.csproj.CoreCompileInputs.cache
+C:\Revature - GayleR\geico-gayle-test-repo\Week1\GuessNumberGame\obj\Debug\net8.0\GuessNumberGame.sourcelink.json
+C:\Revature - GayleR\geico-gayle-test-repo\Week1\GuessNumberGame\obj\Debug\net8.0\GuessNumberGame.dll
+C:\Revature - GayleR\geico-gayle-test-repo\Week1\GuessNumberGame\obj\Debug\net8.0\refint\GuessNumberGame.dll
+C:\Revature - GayleR\geico-gayle-test-repo\Week1\GuessNumberGame\obj\Debug\net8.0\GuessNumberGame.pdb
+C:\Revature - GayleR\geico-gayle-test-repo\Week1\GuessNumberGame\obj\Debug\net8.0\GuessNumberGame.genruntimeconfig.cache
+C:\Revature - GayleR\geico-gayle-test-repo\Week1\GuessNumberGame\obj\Debug\net8.0\ref\GuessNumberGame.dll
