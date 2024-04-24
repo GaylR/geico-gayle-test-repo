@@ -15,26 +15,36 @@ System.Console.WriteLine("\nGuess A Number Between 1 - 100!");
         int setNumber = 7; 
         int Guess = 0;
         
-       
-        System.Console.WriteLine("\nI am thinking of a number between 1 and 100. Can you guess what it is?");
+       while (Guess != setNumber) 
 
-        while (Guess != setNumber)
+        
+        
+       { System.Console.WriteLine("I am thinking of a number between 1 and 100. Can you guess what it is?");
+        string? input = Console.ReadLine();
+        
+      
         {
-            Guess = Convert.ToInt32(Console.ReadLine());
-
+                    
             if (Guess < setNumber)
             {
-                System.Console.WriteLine($"No, the number I am thinking of is higher than {Guess}. Can you guess what it is?");
+                System.Console.WriteLine("Your guess is too low! Please try again!");
             }
+
             else 
             
             if (Guess > setNumber)
             {
-                System.Console.WriteLine($"No, the number I am thinking of is lower than {Guess}. Can you guess what it is?");
+                System.Console.WriteLine("Your guess is too high! Please try again!");
             }
-          
-        }
+           
+             else
+             {
+                System.Console.WriteLine("Well done! You guessed correctly!"); 
+             }
+        
 
-        System.Console.WriteLine($"Well done! The answer was {setNumber}.");
-    }
+            }
+      }
+    System.Console.WriteLine();
+      }
 }
