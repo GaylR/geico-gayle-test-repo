@@ -1,0 +1,15 @@
+C:\Revature - GayleR\geico-gayle-test-repo\Week2\StairChallenge\bin\Debug\net8.0\StairChallenge.exe
+C:\Revature - GayleR\geico-gayle-test-repo\Week2\StairChallenge\bin\Debug\net8.0\StairChallenge.deps.json
+C:\Revature - GayleR\geico-gayle-test-repo\Week2\StairChallenge\bin\Debug\net8.0\StairChallenge.runtimeconfig.json
+C:\Revature - GayleR\geico-gayle-test-repo\Week2\StairChallenge\bin\Debug\net8.0\StairChallenge.dll
+C:\Revature - GayleR\geico-gayle-test-repo\Week2\StairChallenge\bin\Debug\net8.0\StairChallenge.pdb
+C:\Revature - GayleR\geico-gayle-test-repo\Week2\StairChallenge\obj\Debug\net8.0\StairChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature - GayleR\geico-gayle-test-repo\Week2\StairChallenge\obj\Debug\net8.0\StairChallenge.AssemblyInfoInputs.cache
+C:\Revature - GayleR\geico-gayle-test-repo\Week2\StairChallenge\obj\Debug\net8.0\StairChallenge.AssemblyInfo.cs
+C:\Revature - GayleR\geico-gayle-test-repo\Week2\StairChallenge\obj\Debug\net8.0\StairChallenge.csproj.CoreCompileInputs.cache
+C:\Revature - GayleR\geico-gayle-test-repo\Week2\StairChallenge\obj\Debug\net8.0\StairChallenge.sourcelink.json
+C:\Revature - GayleR\geico-gayle-test-repo\Week2\StairChallenge\obj\Debug\net8.0\StairChallenge.dll
+C:\Revature - GayleR\geico-gayle-test-repo\Week2\StairChallenge\obj\Debug\net8.0\refint\StairChallenge.dll
+C:\Revature - GayleR\geico-gayle-test-repo\Week2\StairChallenge\obj\Debug\net8.0\StairChallenge.pdb
+C:\Revature - GayleR\geico-gayle-test-repo\Week2\StairChallenge\obj\Debug\net8.0\StairChallenge.genruntimeconfig.cache
+C:\Revature - GayleR\geico-gayle-test-repo\Week2\StairChallenge\obj\Debug\net8.0\ref\StairChallenge.dll

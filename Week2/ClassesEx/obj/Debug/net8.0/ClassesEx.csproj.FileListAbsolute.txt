@@ -1,0 +1,15 @@
+C:\Revature - GayleR\geico-gayle-test-repo\Week2\ClassesEx\bin\Debug\net8.0\ClassesEx.exe
+C:\Revature - GayleR\geico-gayle-test-repo\Week2\ClassesEx\bin\Debug\net8.0\ClassesEx.deps.json
+C:\Revature - GayleR\geico-gayle-test-repo\Week2\ClassesEx\bin\Debug\net8.0\ClassesEx.runtimeconfig.json
+C:\Revature - GayleR\geico-gayle-test-repo\Week2\ClassesEx\bin\Debug\net8.0\ClassesEx.dll
+C:\Revature - GayleR\geico-gayle-test-repo\Week2\ClassesEx\bin\Debug\net8.0\ClassesEx.pdb
+C:\Revature - GayleR\geico-gayle-test-repo\Week2\ClassesEx\obj\Debug\net8.0\ClassesEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature - GayleR\geico-gayle-test-repo\Week2\ClassesEx\obj\Debug\net8.0\ClassesEx.AssemblyInfoInputs.cache
+C:\Revature - GayleR\geico-gayle-test-repo\Week2\ClassesEx\obj\Debug\net8.0\ClassesEx.AssemblyInfo.cs
+C:\Revature - GayleR\geico-gayle-test-repo\Week2\ClassesEx\obj\Debug\net8.0\ClassesEx.csproj.CoreCompileInputs.cache
+C:\Revature - GayleR\geico-gayle-test-repo\Week2\ClassesEx\obj\Debug\net8.0\ClassesEx.sourcelink.json
+C:\Revature - GayleR\geico-gayle-test-repo\Week2\ClassesEx\obj\Debug\net8.0\ClassesEx.dll
+C:\Revature - GayleR\geico-gayle-test-repo\Week2\ClassesEx\obj\Debug\net8.0\refint\ClassesEx.dll
+C:\Revature - GayleR\geico-gayle-test-repo\Week2\ClassesEx\obj\Debug\net8.0\ClassesEx.pdb
+C:\Revature - GayleR\geico-gayle-test-repo\Week2\ClassesEx\obj\Debug\net8.0\ClassesEx.genruntimeconfig.cache
+C:\Revature - GayleR\geico-gayle-test-repo\Week2\ClassesEx\obj\Debug\net8.0\ref\ClassesEx.dll
