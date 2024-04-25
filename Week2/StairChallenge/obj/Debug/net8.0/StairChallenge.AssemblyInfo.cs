@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StairChallenge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d196498816c40093ecd27a9566719f8420980bb6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69bca7d9331be5d94e89c0acb241fc37df9887be")]
 [assembly: System.Reflection.AssemblyProductAttribute("StairChallenge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StairChallenge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

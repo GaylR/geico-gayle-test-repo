@@ -49,7 +49,7 @@ int n = 10;
                      }
             System.Console.WriteLine();
         }
-    
+    System.Console.WriteLine();
 
         for (int i = 0; i < n; i++)
         {
