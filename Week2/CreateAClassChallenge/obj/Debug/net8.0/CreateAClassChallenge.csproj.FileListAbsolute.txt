@@ -1,0 +1,15 @@
+C:\Revature - GayleR\geico-gayle-test-repo\Week2\CreateAClassChallenge\bin\Debug\net8.0\CreateAClassChallenge.exe
+C:\Revature - GayleR\geico-gayle-test-repo\Week2\CreateAClassChallenge\bin\Debug\net8.0\CreateAClassChallenge.deps.json
+C:\Revature - GayleR\geico-gayle-test-repo\Week2\CreateAClassChallenge\bin\Debug\net8.0\CreateAClassChallenge.runtimeconfig.json
+C:\Revature - GayleR\geico-gayle-test-repo\Week2\CreateAClassChallenge\bin\Debug\net8.0\CreateAClassChallenge.dll
+C:\Revature - GayleR\geico-gayle-test-repo\Week2\CreateAClassChallenge\bin\Debug\net8.0\CreateAClassChallenge.pdb
+C:\Revature - GayleR\geico-gayle-test-repo\Week2\CreateAClassChallenge\obj\Debug\net8.0\CreateAClassChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature - GayleR\geico-gayle-test-repo\Week2\CreateAClassChallenge\obj\Debug\net8.0\CreateAClassChallenge.AssemblyInfoInputs.cache
+C:\Revature - GayleR\geico-gayle-test-repo\Week2\CreateAClassChallenge\obj\Debug\net8.0\CreateAClassChallenge.AssemblyInfo.cs
+C:\Revature - GayleR\geico-gayle-test-repo\Week2\CreateAClassChallenge\obj\Debug\net8.0\CreateAClassChallenge.csproj.CoreCompileInputs.cache
+C:\Revature - GayleR\geico-gayle-test-repo\Week2\CreateAClassChallenge\obj\Debug\net8.0\CreateAClassChallenge.sourcelink.json
+C:\Revature - GayleR\geico-gayle-test-repo\Week2\CreateAClassChallenge\obj\Debug\net8.0\CreateAClassChallenge.dll
+C:\Revature - GayleR\geico-gayle-test-repo\Week2\CreateAClassChallenge\obj\Debug\net8.0\refint\CreateAClassChallenge.dll
+C:\Revature - GayleR\geico-gayle-test-repo\Week2\CreateAClassChallenge\obj\Debug\net8.0\CreateAClassChallenge.pdb
+C:\Revature - GayleR\geico-gayle-test-repo\Week2\CreateAClassChallenge\obj\Debug\net8.0\CreateAClassChallenge.genruntimeconfig.cache
+C:\Revature - GayleR\geico-gayle-test-repo\Week2\CreateAClassChallenge\obj\Debug\net8.0\ref\CreateAClassChallenge.dll
