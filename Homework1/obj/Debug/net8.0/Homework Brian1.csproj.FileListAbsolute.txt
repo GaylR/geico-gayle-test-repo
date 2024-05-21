@@ -1,0 +1,29 @@
+C:\Users\U1C066\OneDrive - Government Employees Insurance Company\Claims Referral\Desktop\Homework Brian1\bin\Debug\net8.0\Homework Brian1.exe
+C:\Users\U1C066\OneDrive - Government Employees Insurance Company\Claims Referral\Desktop\Homework Brian1\bin\Debug\net8.0\Homework Brian1.deps.json
+C:\Users\U1C066\OneDrive - Government Employees Insurance Company\Claims Referral\Desktop\Homework Brian1\bin\Debug\net8.0\Homework Brian1.runtimeconfig.json
+C:\Users\U1C066\OneDrive - Government Employees Insurance Company\Claims Referral\Desktop\Homework Brian1\bin\Debug\net8.0\Homework Brian1.dll
+C:\Users\U1C066\OneDrive - Government Employees Insurance Company\Claims Referral\Desktop\Homework Brian1\bin\Debug\net8.0\Homework Brian1.pdb
+C:\Users\U1C066\OneDrive - Government Employees Insurance Company\Claims Referral\Desktop\Homework Brian1\obj\Debug\net8.0\Homework Brian1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\U1C066\OneDrive - Government Employees Insurance Company\Claims Referral\Desktop\Homework Brian1\obj\Debug\net8.0\Homework Brian1.AssemblyInfoInputs.cache
+C:\Users\U1C066\OneDrive - Government Employees Insurance Company\Claims Referral\Desktop\Homework Brian1\obj\Debug\net8.0\Homework Brian1.AssemblyInfo.cs
+C:\Users\U1C066\OneDrive - Government Employees Insurance Company\Claims Referral\Desktop\Homework Brian1\obj\Debug\net8.0\Homework Brian1.csproj.CoreCompileInputs.cache
+C:\Users\U1C066\OneDrive - Government Employees Insurance Company\Claims Referral\Desktop\Homework Brian1\obj\Debug\net8.0\Homework Brian1.dll
+C:\Users\U1C066\OneDrive - Government Employees Insurance Company\Claims Referral\Desktop\Homework Brian1\obj\Debug\net8.0\refint\Homework Brian1.dll
+C:\Users\U1C066\OneDrive - Government Employees Insurance Company\Claims Referral\Desktop\Homework Brian1\obj\Debug\net8.0\Homework Brian1.pdb
+C:\Users\U1C066\OneDrive - Government Employees Insurance Company\Claims Referral\Desktop\Homework Brian1\obj\Debug\net8.0\Homework Brian1.genruntimeconfig.cache
+C:\Users\U1C066\OneDrive - Government Employees Insurance Company\Claims Referral\Desktop\Homework Brian1\obj\Debug\net8.0\ref\Homework Brian1.dll
+C:\Revature - GayleR\geico-gayle-test-repo\Homework1\bin\Debug\net8.0\Homework Brian1.exe
+C:\Revature - GayleR\geico-gayle-test-repo\Homework1\bin\Debug\net8.0\Homework Brian1.deps.json
+C:\Revature - GayleR\geico-gayle-test-repo\Homework1\bin\Debug\net8.0\Homework Brian1.runtimeconfig.json
+C:\Revature - GayleR\geico-gayle-test-repo\Homework1\bin\Debug\net8.0\Homework Brian1.dll
+C:\Revature - GayleR\geico-gayle-test-repo\Homework1\bin\Debug\net8.0\Homework Brian1.pdb
+C:\Revature - GayleR\geico-gayle-test-repo\Homework1\obj\Debug\net8.0\Homework Brian1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature - GayleR\geico-gayle-test-repo\Homework1\obj\Debug\net8.0\Homework Brian1.AssemblyInfoInputs.cache
+C:\Revature - GayleR\geico-gayle-test-repo\Homework1\obj\Debug\net8.0\Homework Brian1.AssemblyInfo.cs
+C:\Revature - GayleR\geico-gayle-test-repo\Homework1\obj\Debug\net8.0\Homework Brian1.csproj.CoreCompileInputs.cache
+C:\Revature - GayleR\geico-gayle-test-repo\Homework1\obj\Debug\net8.0\Homework Brian1.sourcelink.json
+C:\Revature - GayleR\geico-gayle-test-repo\Homework1\obj\Debug\net8.0\Homework Brian1.dll
+C:\Revature - GayleR\geico-gayle-test-repo\Homework1\obj\Debug\net8.0\refint\Homework Brian1.dll
+C:\Revature - GayleR\geico-gayle-test-repo\Homework1\obj\Debug\net8.0\Homework Brian1.pdb
+C:\Revature - GayleR\geico-gayle-test-repo\Homework1\obj\Debug\net8.0\Homework Brian1.genruntimeconfig.cache
+C:\Revature - GayleR\geico-gayle-test-repo\Homework1\obj\Debug\net8.0\ref\Homework Brian1.dll
